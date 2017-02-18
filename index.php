@@ -1,6 +1,6 @@
 <ul>
-	<li>home</li>
-	<li>profile</li>
+	<li>Home</li>
+	<li>Profile</li>
 	<li>FAQ</li>
-	<li>about us</li>
+	<li>About Us</li>
 </ul>
