@@ -2,5 +2,5 @@
 	<li>home</li>
 	<li>profile</li>
 	<li>gallery</li>
-	<li>about</li>
+	<li>about us</li>
 </ul>
