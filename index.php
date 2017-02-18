@@ -1,6 +1,6 @@
 <ul>
 	<li>home</li>
 	<li>profile</li>
-	<li>gallery</li>
+	<li>Services</li>
 	<li>about us</li>
 </ul>
